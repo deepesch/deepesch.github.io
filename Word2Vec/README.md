@@ -1,7 +1,7 @@
 
 
 # Word2Vec Kaggel Competition
-
+  Machine Learning Competition
 # Competition
 
 https://www.kaggle.com/c/word2vec-nlp-tutorial/data
