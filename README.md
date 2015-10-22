@@ -16,7 +16,7 @@ This repository is mainly used to store projects of Data Science which I have fo
       There are many different Python plotting packages. Amoung all of the  available libraries some may suit your needs better. Some of these are interfaces to existing plotting libraries while others are Python-centered new implementations.
   * **Word2Vec - Kaggle Competition**:
       
-      Machine Learning Competition.
+      Machine Learning Competition(Movie Ratings).
  
 
 
