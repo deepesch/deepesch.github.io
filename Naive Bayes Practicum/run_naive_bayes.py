@@ -1,4 +1,4 @@
-__author__ = 'jeffreytang'
+
 
 from naive_bayes_student import NaiveBayes
 from sklearn.naive_bayes import MultinomialNB
