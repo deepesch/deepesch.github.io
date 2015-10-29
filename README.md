@@ -17,7 +17,11 @@ This repository is mainly used to store projects of Data Science which I have fo
   * **Word2Vec - Kaggle Competition**:
       
       Machine Learning Competition(Movie Ratings).
+  * **Naive Bayes Implementation**:
+      
+      
  
+
 
 
 
