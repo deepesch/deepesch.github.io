@@ -18,7 +18,7 @@ This repository is mainly used to store projects of Data Science which I have fo
       
       Machine Learning Competition(Movie Ratings).
   * **Naive Bayes Implementation**:
-      
+      NLP Project
       
  
 
