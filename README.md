@@ -11,14 +11,18 @@ This repository is mainly used to store projects of Data Science which I have fo
   * **Twitter Cluster to stream**:  
       
       Demo of the most common techniques used in industry from clustering to streaming.
+
   * **Visualization libraries in Python**:
       
       There are many different Python plotting packages. Amoung all of the  available libraries some may suit your needs better. Some of these are interfaces to existing plotting libraries while others are Python-centered new implementations.
+
   * **Word2Vec - Kaggle Competition**:
       
       Machine Learning Competition(Movie Ratings).
+
   * **Naive Bayes Implementation**:
       Natural Language Processing Project
+
   * **Support Vector Machine Implementation**:
       Machine Learning Project
       
