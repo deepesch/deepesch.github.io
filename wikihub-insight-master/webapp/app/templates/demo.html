@@ -1,0 +1,23 @@
+{% extends "layout/base.html" %}
+
+{% block content %}
+  <div class="container">
+    <div class="starter-template">
+      <h1>Wikihub</h1>
+      <form action="page/" method="get">
+        <p>Title: <input type="text" name="title" ></p>
+        <!-- <p>Start Date: <input type="text" name="date1" class="datepicker"></p>
+        <p>End Date: <input type="text" name="date2" class="datepicker"></p> -->
+        <input class="btn" type="submit" value="Search">
+      </form>
+    </div>
+  </div>
+  <script type="text/javascript">
+      var json_data = {{title | safe }};
+      console.log(json_data);
+  </script>
+{% endblock %}
+
+{% block footer %}
+  {% include "include/footer.html" %}
+{% endblock %}
