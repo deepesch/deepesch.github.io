@@ -1,0 +1,7 @@
+*.pyc
+/logs/*
+/wikimedia_ircbot.log
+*.jar
+*.swp
+*.old
+*.bak

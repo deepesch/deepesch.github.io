@@ -1,0 +1,14 @@
+#en.wikipedia
+#de.wikipedia
+#fr.wikipedia
+#es.wikipedia
+#ja.wikipedia
+#pt.wikipedia
+#it.wikipedia
+#pl.wikipedia
+#nl.wikipedia
+#ru.wikipedia
+#zh.wikipedia
+#commons.wikimedia
+#wikidata.wikipedia
+#id.wikipedia
