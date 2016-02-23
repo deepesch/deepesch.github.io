@@ -12,6 +12,7 @@ This repository is mainly used to store projects of Data Science which I have fo
       
       Demo of the most common techniques used in industry from clustering to streaming.
 
+
   * **Visualization libraries in Python**:
       
       There are many different Python plotting packages. Amoung all of the  available libraries some may suit your needs better. Some of these are interfaces to existing plotting libraries while others are Python-centered new implementations.
@@ -27,6 +28,32 @@ This repository is mainly used to store projects of Data Science which I have fo
       Machine Learning Project
       
  
+
+### List of the projects that I have ever joined.
+
+  * **[Machine Learning](http://yelangya3826850.github.io/Projects-in-the-Data-Science-field/)**:  
+      
+      Using the data from [Human Activity Recognition](http://groupware.les.inf.puc-rio.br/har) to predict the manner in       which they did the exercise. The data are collected from accelerometers on the belt, forearm, arm, and dumbell of       6 participants.
+  * **[Cache Time-consuming Computations](http://rpubs.com/yelangya3826850/CacheTime-consumingComputations)**:
+      
+      Constructing an R function which is able to cache potentially time-consuming computations. The basic work for           future big data analysis.
+  * **[Suggestion for variables influencing motor cars' miles per gallon (MPG)](http://rpubs.com/yelangya3826850/SuggestionforvariablesinfluencingmotorcarsmilespergallonMPG)**:
+      
+      This project is mainly to work for a certain magazine about the automobile industry. Looking at a data set of a         collection of cars, they are interested in exploring the relationship between a set of variables and miles per          gallon(MPG) (outcome), and mainly answer the following two questions:
+      1. **“Is an automatic or manual transmission better for MPG”**
+      2. **"Quantify the MPG difference between automatic and manual transmissions"**
+  * **[Getting and Cleaning Data](http://yelangya.github.io/Coursera-Data-Science-Getting-and-Cleaning-Data)**
+
+      This is actually not a project but a previous work for the future analysis. You know that raw data nowadays is          becoming more and more dirty and confusing, so it is important to preprocess these data to get a more clean ones.       And this web page is mainly tracing the work of mine processing data.
+  * **[Plotting](http://yelangya.github.io/Coursera-Data-Science-Exploratory-Data-Analysis)**
+      
+      This is actually not a project but a practice of plotting figures in R circumstance which is the basic work for         the future work
+  * **[Analysis for Influence of Air Pollutant PM2.5](http://yelangya.github.io/Coursera-Data-Science-Exploratory-Data-Analysis2)**
+      
+      The overall goal of this project is to explore the National Emissions Inventory database and see what it say about fine particulate matter pollution in the United states over the 10-year period 1999–2008.
+  * **[Personal Activity Analysis](http://yelangya3826850.github.io/RepData_PeerAssessment1)**
+
+      This project makes use of data from a personal activity monitoring device. This device collects data at 5 minute        intervals through out the day. The data consists of two months of data from an anonymous individual collected           during the months of October and November, 2012 and include the number of steps taken in 5 minute intervals each        day.
 
 
 
