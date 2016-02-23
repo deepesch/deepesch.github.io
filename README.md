@@ -8,7 +8,7 @@ This repository is mainly used to store projects of Data Science which I have fo
 
 ### List of the projects.
 
-  * **Twitter Cluster to stream**(https://github.com/deepesch/deepesch.github.io/tree/master/Twitter%20Cluster%20to%20Stream):  
+  * **[Twitter Cluster to stream](https://github.com/deepesch/deepesch.github.io/tree/master/Twitter%20Cluster%20to%20Stream)**:  
       
       Demo of the most common techniques used in industry from clustering to streaming.
 
